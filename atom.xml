@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[Mood]]></title>
+  <subtitle><![CDATA[心情]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://mood.ciel.io/"/>
+  <updated>2014-12-20T11:52:40.157Z</updated>
+  <id>http://mood.ciel.io/</id>
+  
+  <author>
+    <name><![CDATA[Cielpy]]></name>
+    <email><![CDATA[beijiu572@gmail.com]]></email>
+  </author>
+  
+  <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[嗯，这是第一篇日记]]></title>
+    <link href="http://mood.ciel.io/2014/12/07/the-first/"/>
+    <id>http://mood.ciel.io/2014/12/07/the-first/</id>
+    <published>2014-12-06T17:36:54.000Z</published>
+    <updated>2014-12-06T21:01:17.000Z</updated>
+    <content type="html"><![CDATA[<p>忙里偷闲吧，干点无聊的事。</p>
+<p>。。。。</p>
+<p>无聊的事干起来时间过的是真快啊，折腾Ghost博客从一点折腾到现在了。。。好久没有这么晚睡过了，现在得倍精神，真是精力充沛，这可以唯一的周末= =！</p>
+<p>折腾来折腾去白折腾了，本来以为Ghost是静态博客的，弄到最后不是，是和Wordpress类似的博客平台，还是要生成器转在静态的才能像Hexo一样发布到Github或者Gitcafe这样的空间上，真是一件忧伤的事啊，感觉折腾到现在真是不值。。= =！闲的。</p>
+]]></content>
+    
+    
+  </entry>
+  
+</feed>
